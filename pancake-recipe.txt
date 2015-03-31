@@ -1,0 +1,6 @@
+Groceries : 
+	Flour
+	Things
+
+Steps : 
+	Step 1 do pancakes 
